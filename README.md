@@ -133,7 +133,7 @@
 
 If you're working on **Agentic AI**, **LLMs**, **Computer Vision**, **NLP**, **VLM research**, or **AI Safety**, let's connect and build something amazing together!
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=ayush1298&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![Profile Views](https://visitcount.itsvg.in/api?id=ayush1298&icon=0&color=0)](https://visitcount.itsvg.in)-->
 
 ---
 
