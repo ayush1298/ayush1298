@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I’m an **AI researcher and ML engineer** with strong experience across **vision, language, and multimodal systems**.  
 My work sits at the intersection of **theory, systems, and applied research**, with a focus on **reasoning, safety, and reliability of modern AI models**.
