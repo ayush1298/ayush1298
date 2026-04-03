@@ -64,15 +64,11 @@
 
 ## 📊 GitHub Activity
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush1298&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush1298&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ayush1298&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush1298&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=21600" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush1298&layout=compact&theme=midnight-purple&cache_seconds=21600" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=ayush1298&theme=midnight-purple&cache_seconds=21600" alt="GitHub Streak" />
+</p>
 
 ---
 
