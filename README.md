@@ -9,8 +9,21 @@
   Interests: <strong>LLM Reasoning · Agentic AI · Vision-Language Models · AI Safety</strong>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-munot-5b4963223)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:munotayush6@gmail.com)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-munot-5b4963223) // -->
+<!-- [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:munotayush6@gmail.com) -->
+
+<a href="https://drive.google.com/file/d/1mJ83_EMGQCLrrXrqiMvFcBMst83HloCc/view?usp=sharing">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+</a>  
+<a href="https://linkedin.com/in/ayush-munot-5b4963223">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:munotayush6@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+<a href='https://scholar.google.com/citations?user=-86DdywAAAAJ&hl=en&authuser=1&oi=sra' target="_blank">
+    <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
+</a>
 
 🏅 **Core Contributor** to [MTEB](https://github.com/embeddings-benchmark/mteb) 
 
