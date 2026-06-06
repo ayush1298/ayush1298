@@ -25,8 +25,9 @@
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
 <a href="https://ayush1298.github.io/">
-    <img src="https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome&logoColor=white">
+    <img src="https://img.shields.io/badge/Website-181717?style=flat-square&logo=firefoxbrowser&logoColor=white">
 </a>
+
 
 🏅 **Core Contributor** to [MTEB](https://github.com/embeddings-benchmark/mteb) 
 
