@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&width=650&lines=Final+Year+%40+IIT+Kharagpur;AI+Researcher+%7C+ML+Engineer;Building+Agentic+%26+Multimodal+AI+Systems)](https://git.io/typing-svg)
 
 <p>
-  Dual Degree (Mech. Engg. + CS Minor + AI Micro-Specialization) · IIT Kharagpur<br/>
+  Graduated with B.Tech in Mechanical Engineering, Master's in Financial Engineering and CS Minor from IIT Kharagpur in 2026<br/>
   Interests: <strong>LLM Reasoning · Agentic AI · Vision-Language Models · AI Safety</strong>
 </p>
 
